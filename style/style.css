@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    list-style: none;
+}
