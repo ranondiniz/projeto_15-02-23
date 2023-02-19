@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header aside {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    margin-right: 10em;
+}
+
+#logo-cnn {
+    width: 6em;
+    margin-left: 20em;
+}
+
+.texto-header, .dinheiro-header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.texto-header {
+    color: rgb(43, 170, 92);
+}
